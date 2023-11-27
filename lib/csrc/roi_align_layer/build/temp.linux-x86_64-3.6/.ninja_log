@@ -1,0 +1,4 @@
+# ninja log v5
+1	14917	1616747586616729044	/home/mil/ruan/home/mil/ruan/snake/snake-master/lib/csrc/roi_align_layer/build/temp.linux-x86_64-3.6/home/mil/ruan/home/mil/ruan/snake/snake-master/lib/csrc/roi_align_layer/cpu/ROIAlign_cpu.o	a73d3b26a4c2e863
+1	19251	1616747590945729370	/home/mil/ruan/home/mil/ruan/snake/snake-master/lib/csrc/roi_align_layer/build/temp.linux-x86_64-3.6/home/mil/ruan/home/mil/ruan/snake/snake-master/lib/csrc/roi_align_layer/vision.o	59145f0fc21b7082
+1	27775	1616747599475730013	/home/mil/ruan/home/mil/ruan/snake/snake-master/lib/csrc/roi_align_layer/build/temp.linux-x86_64-3.6/home/mil/ruan/home/mil/ruan/snake/snake-master/lib/csrc/roi_align_layer/cuda/ROIAlign_cuda.o	60f876a0879cc7a6

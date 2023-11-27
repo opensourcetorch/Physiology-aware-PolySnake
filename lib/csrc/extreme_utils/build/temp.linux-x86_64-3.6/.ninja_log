@@ -1,0 +1,4 @@
+# ninja log v5
+1	19405	1616747559874727028	/home/mil/ruan/home/mil/ruan/snake/snake-master/lib/csrc/extreme_utils/build/temp.linux-x86_64-3.6/home/mil/ruan/home/mil/ruan/snake/snake-master/lib/csrc/extreme_utils/utils.o	df8944392e4c2824
+1	26848	1616747567319727589	/home/mil/ruan/home/mil/ruan/snake/snake-master/lib/csrc/extreme_utils/build/temp.linux-x86_64-3.6/home/mil/ruan/home/mil/ruan/snake/snake-master/lib/csrc/extreme_utils/src/nms.o	9ee4f27b47baed96
+2	28145	1616747568616727687	/home/mil/ruan/home/mil/ruan/snake/snake-master/lib/csrc/extreme_utils/build/temp.linux-x86_64-3.6/home/mil/ruan/home/mil/ruan/snake/snake-master/lib/csrc/extreme_utils/src/utils.o	77c60c6372d35c13
